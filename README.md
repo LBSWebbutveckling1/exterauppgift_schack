@@ -11,6 +11,6 @@ Finns som Video:
 
 [![Video om grid-layout](https://img.youtube.com/vi/jV8B24rSN5o/0.jpg)](https://www.youtube.com/watch?v=jV8B24rSN5o)
 
-Viktiga begrepp för att lösa upgiften: 
-* grid-template-columns
-* grid-template-rows
+## Viktiga begrepp för att lösa upgiften: 
+* **grid-template-columns**
+* **grid-template-rows**
